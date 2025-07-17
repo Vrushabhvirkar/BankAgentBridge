@@ -1,0 +1,27 @@
+{
+    "name": "Bagse",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Server.js",
+    "scripts": {
+        "dev": "npx nodemon backend/Server.js",
+        "build":"npm install && npm install --prefix backend/frontend && npm run build --prefix backend/frontend",
+        "start": "npx nodemon backend/Server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "dayjs": "^1.11.10",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "express-validator": "^7.0.1",
+        "http-errors": "^2.0.0",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.0.0",
+        "nanoid": "3"
+    }
+}

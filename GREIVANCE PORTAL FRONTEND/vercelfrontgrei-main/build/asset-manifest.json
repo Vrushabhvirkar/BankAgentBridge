@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad0ac765.chunk.css",
+    "main.js": "/static/js/main.6b5d2b6b.chunk.js",
+    "main.js.map": "/static/js/main.6b5d2b6b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7545a8a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7545a8a1.js.map",
+    "static/js/2.a49de3a8.chunk.js": "/static/js/2.a49de3a8.chunk.js",
+    "static/js/2.a49de3a8.chunk.js.map": "/static/js/2.a49de3a8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ad0ac765.chunk.css.map": "/static/css/main.ad0ac765.chunk.css.map",
+    "static/js/2.a49de3a8.chunk.js.LICENSE.txt": "/static/js/2.a49de3a8.chunk.js.LICENSE.txt",
+    "static/media/address.b8e3e20b.png": "/static/media/address.b8e3e20b.png",
+    "static/media/convo.dbd9fafb.png": "/static/media/convo.dbd9fafb.png",
+    "static/media/login.b452fbc4.gif": "/static/media/login.b452fbc4.gif",
+    "static/media/signup.82e814f4.gif": "/static/media/signup.82e814f4.gif",
+    "static/media/telephone.fb244201.png": "/static/media/telephone.fb244201.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7545a8a1.js",
+    "static/js/2.a49de3a8.chunk.js",
+    "static/css/main.ad0ac765.chunk.css",
+    "static/js/main.6b5d2b6b.chunk.js"
+  ]
+}
